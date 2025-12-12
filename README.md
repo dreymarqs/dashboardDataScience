@@ -1,7 +1,29 @@
-É um projeto simples em python sobre data science, recebendo uma base de dados sobre salários,residências e afins sobre cargos do meio da computação.
-Com estes dados montem um dashboard com alguns gráficos interativos que podem ser facilmente manipulados pelos filtros.
-Caso queira ver o dashboard funcionando : 
+Este é um projeto simples de Data Science em Python, utilizando uma base de dados com informações sobre salários, residências, cargos e outros fatores relacionados ao mercado de tecnologia.
 
-https://dashboard-andrey-marques.streamlit.app/ 
+A partir desses dados, desenvolvi um dashboard interativo, onde é possível visualizar e filtrar informações de maneira rápida e intuitiva.
 
-*O app pode estar off mas basta clicar no botão que ja vai carregar tudo novamente.*
+🚀 Tecnologias utilizadas
+
+Python
+
+Pandas – tratamento e manipulação da base de dados
+
+Plotly – gráficos interativos
+
+Streamlit – criação do dashboard e UI
+
+🖥️ Acesse o Dashboard
+
+👉 Dashboard (Streamlit Cloud):
+https://dashboard-andrey-marques.streamlit.app/
+
+⚠️ Caso o app esteja desligado, basta clicar no botão “Rerun/Retry” e o Streamlit irá recarregar automaticamente.
+
+📈 O que você encontra no dashboard?
+
+✔ Distribuição salarial por cargo
+✔ Comparações entre regiões
+✔ Gráficos interativos filtráveis
+✔ Análises de média, mediana e dispersão
+✔ Visualização clara de tendências do mercado de TI
+✔ Interface simples e intuitiva
