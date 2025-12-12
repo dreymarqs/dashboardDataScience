@@ -4,7 +4,7 @@ Este é um projeto simples de Data Science em Python, utilizando uma base de dad
 
 A partir desses dados, desenvolvi um dashboard interativo, onde é possível visualizar e filtrar informações de maneira rápida e intuitiva.
 
-# 🚀 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
 Python
 
@@ -14,14 +14,14 @@ Plotly – gráficos interativos
 
 Streamlit – criação do dashboard e UI
 
-# 🖥️ Acesse o Dashboard
+## 🖥️ Acesse o Dashboard
 
 👉 Dashboard (Streamlit Cloud):
 https://dashboard-andrey-marques.streamlit.app/
 
 ⚠️ Caso o app esteja desligado, basta clicar no botão “Rerun/Retry” e o Streamlit irá recarregar automaticamente.
 
-# 📈 O que você encontra no dashboard?
+## 📈 O que você encontra no dashboard?
 
 ✔ Distribuição salarial por cargo
 ✔ Comparações entre regiões
