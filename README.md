@@ -24,8 +24,13 @@ https://dashboard-andrey-marques.streamlit.app/
 ## 📈 O que você encontra no dashboard?
 
 ✔ Distribuição salarial por cargo
+
 ✔ Comparações entre regiões
+
 ✔ Gráficos interativos filtráveis
+
 ✔ Análises de média, mediana e dispersão
+
 ✔ Visualização clara de tendências do mercado de TI
+
 ✔ Interface simples e intuitiva
